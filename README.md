@@ -23,7 +23,7 @@ A basic LSTM
 A more complex Bidirectional LSTM
 
 Results
-The basic LSTM performed poorly (~57% accuracy), stuck around random guessing.
+The basic LSTM performed poorly (57% accuracy), stuck around random guessing.
 
 The Bidirectional LSTM reached around 79% validation accuracy with tuning.
 
